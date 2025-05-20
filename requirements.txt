@@ -1,0 +1,13 @@
+Django==4.2.8
+djangorestframework==3.14.0
+django-crispy-forms==2.4
+django-adminlte3==0.1.6
+whitenoise==6.9.0
+
+requests==2.32.3
+beautifulsoup4==4.11.1
+lxml==5.4.0
+folium==0.14.0
+geocoder==1.38.1
+numpy==2.2.6
+pillow==11.2.1
